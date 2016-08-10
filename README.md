@@ -1,1 +1,1 @@
-# MathematicalProgrammingCourse
+# Mathematical programming with Jupyter Notebooks
